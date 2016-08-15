@@ -1,0 +1,12 @@
+markdown: rdiscount
+permalink: /:year/:month/:day/:title/
+url: https://desperado1116.github.io
+author: FoxLin
+highlighter: pygments
+exclude: ["Rakefile", "CNAME", "README.md"]
+safe: false
+paginate: 15
+
+
+# Gems
+gems: [jekyll-paginate]
