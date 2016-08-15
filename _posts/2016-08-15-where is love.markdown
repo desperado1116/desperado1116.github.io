@@ -30,7 +30,7 @@ And paced upon the mountains overhead
 
 And hid his face amid a crowd of stars.
 
----
 
 
-![12](/assets/images/1.jpeg)
+
+![12](/assets/images/1.jpg)
