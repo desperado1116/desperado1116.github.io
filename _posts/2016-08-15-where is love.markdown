@@ -3,9 +3,8 @@ layout: post
 title: "where is love"
 description: "where is love"
 category: 随手写
-
 --- 
-
+*
 When you are old and grey and full of sleep,
 
 And nodding by the fire, take down this book,
@@ -29,7 +28,7 @@ Murmur, a little sadly, how Love fled
 And paced upon the mountains overhead
 
 And hid his face amid a crowd of stars.
-
+*
 
 
 
